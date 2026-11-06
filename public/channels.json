@@ -1,0 +1,38 @@
+[
+  {
+    "id": "TN1",
+    "number": 1,
+    "name": "TN1",
+    "category": "Chaînes",
+    "logo": "/logos/chaine-1.png",
+    "logoText": "",
+    "color": "#0c7702",
+    "description": "Flower — vidéo CC0 (MP4, MDN)",
+    "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "type": "mp4"
+  },
+  {
+    "id": "N2",
+    "number": 2,
+    "name": "N2",
+    "category": "Chaînes",
+    "logo": "/logos/chaine-2.png",
+    "logoText": "",
+    "color": "#ff0000",
+    "description": "Sintel, bande-annonce — film ouvert Blender (MP4)",
+    "url": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+    "type": "mp4"
+  },
+  {
+    "id": "N3",
+    "number": 3,
+    "name": "N3",
+    "category": "Chaînes",
+    "logo": "/logos/chaine-3.png",
+    "logoText": "",
+    "color": "#165ba7",
+    "description": "Tears of Steel — flux HLS de démonstration (Mux)",
+    "url": "https://test-streams.mux.dev/tos_ismc/main.m3u8",
+    "type": "hls"
+  }
+]

@@ -1,0 +1,8 @@
+#EXTM3U
+# Playlist d'exemple — mêmes flux publics que channels.json
+#EXTINF:-1 tvg-id="chaine-1" tvg-chno="1" tvg-logo="" group-title="Chaînes",Chaîne 1
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
+#EXTINF:-1 tvg-id="chaine-2" tvg-chno="2" tvg-logo="" group-title="Chaînes",Chaîne 2
+https://media.w3.org/2010/05/sintel/trailer.mp4
+#EXTINF:-1 tvg-id="chaine-3" tvg-chno="3" tvg-logo="" group-title="Chaînes",Chaîne 3
+https://test-streams.mux.dev/tos_ismc/main.m3u8
